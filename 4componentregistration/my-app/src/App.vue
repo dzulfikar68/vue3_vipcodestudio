@@ -1,6 +1,6 @@
 <script setup>
 import Button from './components/Button.vue'
-import CompositionComponent from './components/CompositionComponent.vue';
+import CompositionComponent from './components/CompositionComponent.vue'
 import OptionsComponent from './components/OptionsComponent.vue'
 // defineOptions({
 //   name: 'MainButton',

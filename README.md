@@ -6,3 +6,5 @@ list command:
 npm install
 npm run format
 npm run dev
+
+npm install --save-dev @types/estree @types/json-schema
