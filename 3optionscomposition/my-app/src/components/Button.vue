@@ -1,11 +1,7 @@
 <template>
-    <button>Button</button>
+  <button>Button</button>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style scoped>
-    
-</style>
+<style scoped></style>
